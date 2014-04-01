@@ -1,0 +1,2 @@
+* This program is General Problem Solver
+* You can define *rule* and can make GPS solve problem based on this *rule*
